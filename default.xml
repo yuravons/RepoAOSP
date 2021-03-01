@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="my_github" 
+            fetch="https://github.com/yuravons" />
+
+    <project path="packages/apps/LogServer"
+             name="LogServerAOSP.git"
+             remote="my_github"
+             revision="master" />
+    <project path="packages/apps/LogClient"
+             name="LogClientAOSP.git"
+             remote="my_github"
+             revision="master" />
+</manifest>

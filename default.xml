@@ -11,4 +11,9 @@
              name="LogClientAOSP.git"
              remote="my_github"
              revision="master" />
+
+    <project path="frameworks/base/cmds/plog"
+             name="PlogCmd.git"
+             remote="my_github"
+             revision="master" />
 </manifest>
